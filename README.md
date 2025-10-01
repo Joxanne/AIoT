@@ -1,5 +1,7 @@
 # Interactive Linear Regression Explorer
 
+**Live Demo:** [https://helloabcd666.streamlit.app/](https://helloabcd666.streamlit.app/)
+
 This project is a simple web application that allows you to interactively explore a simple linear regression model. You can adjust the parameters of the data generation and see how it affects the model's performance.
 
 ## How to Run
